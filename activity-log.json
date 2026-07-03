@@ -4,5 +4,11 @@
     "type": "auth",
     "message": "Rocky McGee signed in",
     "timestamp": 1783098026535
+  },
+  {
+    "id": "1783098032958-l4iv4z",
+    "type": "section",
+    "message": "Reel 01 — Section 01/10 completed",
+    "timestamp": 1783098032958
   }
 ]
