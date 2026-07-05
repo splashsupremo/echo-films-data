@@ -58,5 +58,11 @@
     "type": "section",
     "message": "Reel 01 — Section 09/10 completed",
     "timestamp": 1783279793699
+  },
+  {
+    "id": "1783279795316-3ru7md",
+    "type": "module_completed",
+    "message": "Reel 01 completed — \"Module 1: Film Set Hierarchy, Roles & Chain of Command\"",
+    "timestamp": 1783279795316
   }
 ]
