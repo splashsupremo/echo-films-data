@@ -64,5 +64,11 @@
     "type": "module_completed",
     "message": "Reel 01 completed — \"Module 1: Film Set Hierarchy, Roles & Chain of Command\"",
     "timestamp": 1783279795316
+  },
+  {
+    "id": "1783297250775-4npdyd",
+    "type": "auth",
+    "message": "Rocky McGee signed in",
+    "timestamp": 1783297250775
   }
 ]
