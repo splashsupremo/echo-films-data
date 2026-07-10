@@ -346,5 +346,11 @@
     "type": "module_completed",
     "message": "Reel 04 completed — \"Module 4: Compliance, Safety, Risk, Insurance & Legal Basics on Set\"",
     "timestamp": 1783585456871
+  },
+  {
+    "id": "1783712026456-istny8",
+    "type": "auth",
+    "message": "Rocky McGee signed in",
+    "timestamp": 1783712026456
   }
 ]
