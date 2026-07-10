@@ -406,5 +406,11 @@
     "type": "section",
     "message": "Reel 05 — Section 09/10 completed",
     "timestamp": 1783712293787
+  },
+  {
+    "id": "1783712314603-xht3ke",
+    "type": "training_completed",
+    "message": "Rocky McGee completed the full training",
+    "timestamp": 1783712314603
   }
 ]
