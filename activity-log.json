@@ -412,5 +412,11 @@
     "type": "training_completed",
     "message": "Rocky McGee completed the full training",
     "timestamp": 1783712314603
+  },
+  {
+    "id": "1783712314602-tmi5sa",
+    "type": "module_completed",
+    "message": "Reel 05 completed — \"Module 5: Wrapping Production, Final Reports, Post-Production Handoff & HR Next Steps\"",
+    "timestamp": 1783712314602
   }
 ]
